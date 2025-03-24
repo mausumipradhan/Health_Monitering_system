@@ -65,13 +65,6 @@ The dataset includes **10,000 synthetic patient profiles**, each with the follow
 
 ## 🛠 Setup & Installation
 
-### **1️⃣ Clone the Repository**
-
-```bash
-git clone https://github.com/juned-k786/health-monitoring-system.git
-cd health-monitoring-syste
-```
-
 ### **2️⃣ Install Dependencies**
 
 ```bash
@@ -103,8 +96,3 @@ This project is open-source and available under the **MIT License**.
 ---
 
 💡 **Contributions are welcome!** Feel free to open issues and submit pull requests. 🚀
-
-This project is open-source and available under the **MIT License**.
-
-© 2025 Mohd Juned Khan. All rights reserved.
-

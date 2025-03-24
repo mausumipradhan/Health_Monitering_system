@@ -1,4 +1,4 @@
-# Health Monitoring System for Diagnostic Centers
+# Health Monitoring System
 
 ## 📌 Project Overview
 
